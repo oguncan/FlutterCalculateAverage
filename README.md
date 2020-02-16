@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![01](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/01.png)
 ![02](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/02.png)
 ![03](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/03.png)
-![04](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/05.png)
+![04](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/04.png)
 ![05](https://github.com/oguncan/FlutterCalculateAverage/blob/master/CalculatePoint/05.png)
